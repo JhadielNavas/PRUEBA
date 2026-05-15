@@ -269,7 +269,7 @@ class Ventana(
             boton_jugar.color_clicado = None
             boton_jugar.grosor_borde = 0
             boton_jugar.color_borde_actual = None
-            ##hola mucho gusto
+            ##hola mucho gusto soy jhadiel
 
         except Exception as e: 
                 print(f"Error cargando imagen del botón jugar: {e}")
