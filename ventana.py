@@ -269,8 +269,9 @@ class Ventana(
             boton_jugar.color_clicado = None
             boton_jugar.grosor_borde = 0
             boton_jugar.color_borde_actual = None
+            ##hola mucho gusto
 
-        except Exception as e:
+        except Exception as e: 
                 print(f"Error cargando imagen del botón jugar: {e}")
 
         self.elementos_creados.append(boton_jugar)
